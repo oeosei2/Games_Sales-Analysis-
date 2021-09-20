@@ -1,7 +1,7 @@
 # Games_Sales-Analysis-
 This dataset contains a list of videos games with sales greater than 100,000 copies
  
-# Info about the dataset 
+# Info about the Features of the dataset 
 >> Rank - Ranking of overall sales 
 
 >> Name - The games name
